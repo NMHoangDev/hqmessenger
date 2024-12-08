@@ -1,0 +1,30 @@
+# Node modules and dependencies
+/node_modules
+/vendor
+
+# Laravel specific files
+/storage/*.key
+/public/storage
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+
+# Environment files
+.env
+.env.*
+
+# Laravel Mix compiled files
+/public/css
+/public/js
+/public/mix-manifest.json
+
+# Cache and debug files
+.phpunit.result.cache
+/bootstrap/cache
+
+# IDE and OS files
+.DS_Store
+.idea/
+.vscode/
+*.swp

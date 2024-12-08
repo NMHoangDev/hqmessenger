@@ -1,0 +1,19 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-BsdlOOtM.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Bxe5hYVg.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/messenger.js": {
+    "file": "assets/messenger-DuA1GLeS.js",
+    "name": "messenger",
+    "src": "resources/js/messenger.js",
+    "isEntry": true
+  }
+}
